@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402237592218",
+    "project_id": "sueats-82f9b",
+    "storage_bucket": "sueats-82f9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402237592218:android:d8b8c42c5c142fefcb4523",
+        "android_client_info": {
+          "package_name": "com.example.sueatssss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA25INHLDO4rNXxaES9W63tZ1hz9qscBU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
